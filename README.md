@@ -38,15 +38,12 @@ This project provides a comprehensive solution for network administrators and st
   - Control traffic flow, ICMP, forwarding, and security policies
   - Perform batch operations across multiple network devices
 
-**Network Topology:**
 
-```
-VPC1 ↔ OVS1 ↔ OVS2 ↔ OVS3 ↔ OVS4 ↔ VPC2
-```
 
-![OVS-Topology](OVS-Topology.jpg "Topology")
 
 -----
+   ### Network Topoogy
+   ![OVS-Topology](OVS-Topology.jpg "Topology")
 
 ## ✨ Features
 
