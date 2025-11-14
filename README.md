@@ -620,7 +620,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 ```
 MIT License
 
-Copyright (c) 2025 RAIMAL RAJA
+Copyright (c) 2025 HAROON ABBAS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -632,8 +632,9 @@ in the Software without restriction...
 ## 👥 Authors
 
 **RAIMAL RAJA** - GitHub: [@Raimal-Raja](https://github.com/Raimal-Raja)
+**M HAROON ABBAS** - Github : [@RealHaroon] (https://github.com/RealHaroon)
 
-  - Student ID: 2K23/BLCS/49
+  - 
 
 *6th Semester Project - Computer Science*
 
