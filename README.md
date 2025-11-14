@@ -631,10 +631,9 @@ in the Software without restriction...
 
 ## 👥 Authors
 
-**RAIMAL RAJA** - GitHub: [@Raimal-Raja](https://github.com/Raimal-Raja)
-**M HAROON ABBAS** - Github : [@RealHaroon] (https://github.com/RealHaroon)
+- **M HAROON ABBAS** - Github : [@RealHaroon](https://github.com/RealHaroon)
 
-  - 
+
 
 *6th Semester Project - Computer Science*
 
